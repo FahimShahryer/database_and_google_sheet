@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "cosmic-inkwell-404919",
+  "private_key_id": "04f0e71376c8d97349bbacf93827c8b959e9f0aa",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDSVHpt1aYVwBdx\n96baouJR9t7Ze69nMA258SoUpogboJD/pU5CGkh+p7rDI9yZkRVThELCObX+dUG5\nxu2n/O/ysQjjvKkKRLwSv6FlJtJyXSayQPVsG71amF6W6tYZ6clHb/7b0uTyUP+4\nYCqND8JzsqFJCAcnaLx1BgxiTWr83R+Oz2jlzSaaQeYz1mnc1ERHIzLO+y6Urqyk\nMsZVQUuc9LZ9O1TwA3HVVIpw70GM6HQA+5V2M3q+Q9E4Dim749XZhYieRW1qczf3\nF8XpTfrW2P+ciIB8F8IjzUYxgsEOQcNyIRZyo5FgvqrFft8XB08RUaJj4itko63y\nNSDTNvY3AgMBAAECggEAIqz+yjYw/YuqfIWXIps8CMX/PjJ1W+PA6j488SP2Hefo\n6od2/CWX0hnBDARQ4u3XwD8hP82CmFhTOleg6Ch76V0P2XafFSxOfXYjxlNnhVH0\n2+p4YRcUWWf0IEQd1tkuRUgiPQeV60U4rk2xy4kk8SzVXlROfvbLgII7bxwoXquh\ndHAzqNsIh06ODsJlrt3xVVbVjVg2zXdelGaUZUnNsuAhlqueViMsVUAhzbPVd5nj\nA6y+s3mEzADtQs89QoKLSVMSkWNMCtsyoM8nGR7tAr/FjDdTrjM8LxjEhbiOWHbp\nZ/uHc8ji1LiLx5AryVeiIKb6xU2y5kgPH+q3+ird4QKBgQDuxd23OEgPxuZyDHVb\na77Gsc2dFtBxzrP2qo9JZQGBxQ9v/KcpHjf1UJJSOkWsQDaAp5pzlOsStlCnbapO\nSk3xh+nf+z9UeCBbhJtfzg14r/hOrwn00CS5Ag+UBWz38yPLT5KKqmh/fQB6ti/k\n2bwLfKGvCWJdii+RQ0JwKKgnaQKBgQDhgUWI9pL46pk60Os13opz2ryFDP6+N+S4\n4xIeHs9c/snb5O53gJHKINsizG31YdA7Z0kI+xp/b4tTBgG7pytCoz9J0gjsLZdU\n55WQQjAL1Zs7C4xqp3kpxgZVWG30jSXKixoRCN/R1PD9jvxhtmGgnEI/aysWVwrt\nWCuiyt8cnwKBgDWI+6sm3VFcQTL1BCMZR075cqZ0BQxfUg5OM447LVlRO6LaPQiF\nE/rWs9fn5NM4GoBCE+kyTHqHkhHYDsU697rdxFxJ0us3e9nJI6UZZ//VRJEvwcW4\nHWO1yJRhmwsE4tOk5bBdgMyE1GSvEJH5F6ZjrUS3j+x1HTEuqWjIVNtxAoGBANCs\nFBFiwqwuQu8HRrDJpusAXXTtiomxJSjlju1qa07NwzOFjBnvUnltn/p6m8H26n8d\n25rA6ktEh/Oi2lWworp+X+FKx9Dte10pE+CzLsy0tHmV/TDwmpFKWq/9LXqgZnkf\n8VYUFTGR0BOCjg9Jetvp3O/clrmMgGMTNQXmn0FXAoGBAL0Q5iwY2Elq3vXt8CiD\nLhARDr6szD+YzvCo0K/TDNODCgoOHjxcahBO3rfeMcyLDJVxv84mibxZ2YNouNTx\n5NkBmSlq+qBsMPK2qPlru6Iy+i7hpL+hDgZIsBbF8KncyQmFORK/g3nINn3TCo1H\nUeDDKsk7Rhx9w2JuswD4Emze\n-----END PRIVATE KEY-----\n",
+  "client_email": "fahim-176@cosmic-inkwell-404919.iam.gserviceaccount.com",
+  "client_id": "107651549053383905794",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/fahim-176%40cosmic-inkwell-404919.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
