@@ -4,7 +4,7 @@ from oauth2client.service_account import ServiceAccountCredentials
 from pprint import pprint
 
 # Connect to MongoDB
-conn_string = "mongodb+srv://fhmshahryer:5QmYnUN17c1d3RcZ@cluster0.soaa8or.mongodb.net/?retryWrites=true&w=majority"
+conn_string = "mongodb+srv://<username>:<password>@cluster<your string>"
 client = pymongo.MongoClient(conn_string)
 myDB = client["test_db"]
 collection_name = "my_table"
